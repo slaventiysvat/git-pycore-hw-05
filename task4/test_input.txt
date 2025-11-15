@@ -1,0 +1,6 @@
+add
+add Bob  
+add Jime 0501234356
+phone
+all
+exit
